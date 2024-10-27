@@ -1,4 +1,4 @@
-<h1 align='center'>tempt</h1>
+<h1 align='center'>templetor</h1>
 
 <br>
 
@@ -9,5 +9,5 @@
 <br>
 
 ## templet
-- [webpage](./webpage/README.md)
-- [pkg](./pkg/README.md)
+- [ui-vue-vite](https://github.com/templetor/ui-vue-vite)
+- [pkg](https://github.com/templetor/pkg)
