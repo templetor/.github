@@ -8,4 +8,5 @@
 
 ## 模板
 - [ui-vue-vite](https://github.com/templetor/ui-vue-vite)
-- [pkg](https://github.com/templetor/pkg)
+- [pkg-vite](https://github.com/templetor/pkg-vite)
+- [pkg-unbuild](https://github.com/templetor/pkg-unbuild)
