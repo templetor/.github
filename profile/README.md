@@ -8,5 +8,6 @@
 
 ## templet
 - [ui-vite-vue](https://github.com/templetor/ui-vite-vue)
-- [pkg-vite-vite](https://github.com/templetor/pkg-vite)
+- [pkg](https://github.com/templetor/pkg)
 - [pkg-unbuild](https://github.com/templetor/pkg-vite-unbuild)
+- [pkg-vite-vite](https://github.com/templetor/pkg-vite)
